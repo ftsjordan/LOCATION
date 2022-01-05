@@ -1,2 +1,2 @@
 # LOCATION
-logiciel de gestion de gestion locative
+logiciel de gestion locative
